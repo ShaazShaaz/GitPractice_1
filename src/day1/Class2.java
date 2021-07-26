@@ -5,6 +5,7 @@ public class Class2 {
     // making 3rd commit
     // don't know what to write further
     // this is the final one
+    // or this one may be
 
 
 }
