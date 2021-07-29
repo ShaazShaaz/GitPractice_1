@@ -7,5 +7,6 @@ public class ListPractice {
         ArrayList<String> str=new ArrayList<>();
         // adding another commit
         /// ....
+        //....
     }
 }
