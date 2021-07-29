@@ -1,6 +1,7 @@
 package day3;
 
 public class Movie1 {
-    //kjhk
-    //hjgj
+// after a friendly discussion
+// they have decided to continue
+// the movie from 22 mins
 }
